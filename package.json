@@ -1,0 +1,15 @@
+{
+  "name": "black-screen",
+  "author": "Adam",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Black Screen",
+    "uuid": "f044c493-8a86-47e8-992e-9ee4e9f1263f",
+    "sdkVersion": "3",
+    "targetPlatforms": ["emery"],
+    "watchapp": { "watchface": true }
+  }
+}
