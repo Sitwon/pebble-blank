@@ -1,8 +1,0 @@
-[10:07:59] pkjs> [PHONESIM] [WARNING] Exception decoding QemuInboundPacket.footer
-[10:07:59] pkjs> [PHONESIM] [WARNING] Exception decoding QemuInboundPacket.footer
-[10:07:59] pkjs> [PHONESIM] [WARNING] Exception decoding QemuInboundPacket.footer
-[10:07:59] pkjs> [PHONESIM] [WARNING] Exception decoding QemuInboundPacket.footer
-[10:07:59] pkjs> [PHONESIM] [WARNING] Exception decoding QemuInboundPacket.footer
-[10:07:59] pkjs> [PHONESIM] [WARNING] Exception decoding QemuInboundPacket.footer
-[10:07:59] pkjs> [PHONESIM] [WARNING] Exception decoding QemuInboundPacket.footer
-[10:07:59] pkjs> [PHONESIM] [WARNING] Exception decoding QemuInboundPacket.footer
